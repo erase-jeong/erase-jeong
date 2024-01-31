@@ -1,8 +1,5 @@
 ## Who Am I
-- [Main major] Dong-A University Computer Science Engineering
-- [minor] business administration
-
-
+- Dong-A University **💻 Computer Science Engineering**[major] | 📋 
 
 
 ## Campus activities
@@ -17,17 +14,16 @@
 ## Education & Project
 - 진로개발센터 진로동아리 [Career Design] 프로그램 참여
   [FINISH | 🏆 우수팀 수상🎉] (2020. 9 ~ 2020.12)
-
 - 동아대 링크사업단 실전 증강현실 Slam / marker 기반 콘텐츠 제작하기 (2021.01.04 ~ 2021.01.08)
 - 동아대 링크사업단 영상 처리와 아두이노 제어 프로그램 이수 (2021.01.11 ~ 2021.01.15)
 - DB재단 대학생 기업경영 체험스쿨 수료 (2021.10.16~2021.10.17)
 - 동아대 스마트 헬스 데이터 분석 비교과 프로그램 (2023.05.30 ~ 2023.11)
-
+- Dong-A University FairDay 시각장애인 보행 보조 시스템 [FINISH | 🏆 우수상] (2023.10.24~2023.12.07)
 
 ## Supporters & reporter
 - 동아대 진로개발센터 홍보서포터즈 위드다움 3기 (2021.3 ~ 2021. 6)
 - 부산노동권익센터 3기 서포터즈 활동 - 웹툰팀 (2022.2 - 2022.12)
-- 부산노동권익센터 4기 서포터즈 활동 - 인터렉티브 팀 (2023.2 - ~ing)
+- 부산노동권익센터 4기 서포터즈 활동 - 인터렉티브 팀 (2023.2 - 2023.12)
 - NTIS(국가과학기술지식정보서비스) 제2기 서포터즈 활동 ( 2023.6 - 2023.12)
 
 
