@@ -1,5 +1,5 @@
 ## Who Am I
-- Dong-A University **💻 Computer Science Engineering**[major] | 📋 **business administration**
+- Dong-A University [major |**💻 Computer Science Engineering**] | [minor | 📋 **business administration** ]
 
 
 ## Campus activities
