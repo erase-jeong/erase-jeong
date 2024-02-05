@@ -34,7 +34,7 @@
 
 
 ## 🌹 Skills
-
+react, react-native
 
 
 ## 🌹 Information
