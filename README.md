@@ -4,11 +4,6 @@
 
 
 
-
-## 🌹 Skills
-react, react-native
-
-
 ## 🌹 Information
 - github :
 - blog1[study & cs]
