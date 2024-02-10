@@ -6,7 +6,7 @@
 
 ## 🌹 Information
 - github :
-- blog1[study & cs]
+- blog1[study & cs] : https://erase-jeong.tistory.com/
 - blog2[
 
 
