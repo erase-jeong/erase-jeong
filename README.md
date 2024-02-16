@@ -2,7 +2,7 @@
 - Dong-A University [major |**💻 Computer Science Engineering**] & [minor | 📋 **business administration** ]
 
 
-
+## 🌹 Education & Projects
 
 ## 🌹 Information
 - github : https://github.com/erase-jeong
