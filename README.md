@@ -3,7 +3,7 @@
 
 
 ## 🌹 Education & Projects
-- dau
+- 
   
 ## 🌹 Information
 - github : https://github.com/erase-jeong
