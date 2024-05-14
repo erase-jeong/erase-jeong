@@ -3,8 +3,7 @@
 
 
 ## 🌹 Education & Projects
-- donga
-- 
+
 
   
 ## 🌹 Information
