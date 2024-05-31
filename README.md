@@ -3,7 +3,7 @@
 
 
 ## 🌹 Education & Projects
-- 
+- dongA
   
 ## 🌹 Information
 - github : https://github.com/erase-jeong
