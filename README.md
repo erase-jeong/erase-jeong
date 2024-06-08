@@ -1,4 +1,4 @@
-ㅐ## 🌹 Who Am I
+## 🌹 Who Am I
 - Dong-A University [major |**💻 Computer Science Engineering**] & [minor | 📋 **business administration** ]
 
 
