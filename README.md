@@ -4,6 +4,11 @@
 
 ## 🌹 Education & Projects
 - dongA univ
+
+## 🌹Skill 
+### front
+
+      
   
 ## 🌹 Information
 - github : https://github.com/erase-jeong
