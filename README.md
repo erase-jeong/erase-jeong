@@ -3,7 +3,6 @@
 
 
 ## 🌹 Education & Projects
-- Dong-A University FairDay 시각장애인 보행 보조 시스템 [FINISH | 🏆 우수상] (2023.10.24~2023.12.07)
 
 
 
@@ -16,7 +15,20 @@
 <img src="https://img.shields.io/badge/confluence-172B4D?style=for-the-badge&logo=confluence&logoColor=white">
 <img src="https://img.shields.io/badge/slack-4A154B?style=for-the-badge&logo=slack&logoColor=white">
 
-      
+## 🏆 Awards&Honors 🏆
+- KT그룹희망나눔재단 KT창의혁신리더장학생 선발 (2022.7)
+- Dong-A University FairDay 시각장애인 보행 보조 시스템 [FINISH | 🏆 우수상] (2023.10.24~2023.12.07)
+
+## ☁️ Activities ☁️
+- DUSC(동아증권연구회) (2020.9 ~ 2021. 12)
+- Dong-A GDSC(Google Developer Student Clubs) ( 2023.09 - ~ ing)
+- NTIS(국가과학기술지식정보서비스) 제2기 서포터즈 활동 ( 2023.6 - 2023.12)
+
+
+## 📁 Projects 📁
+
+
+
 ## 🌹 Information
 - github : https://github.com/erase-jeong
 - blog1[study & cs] : https://erase-jeong.tistory.com/
@@ -24,7 +36,7 @@
 
 
 ## 🌹 Supporters & reporter
-- NTIS(국가과학기술지식정보서비스) 제2기 서포터즈 활동 ( 2023.6 - 2023.12)
+
 
 ### Hi there
 - 🌱 I’m currently learning ....
