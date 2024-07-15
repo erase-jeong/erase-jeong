@@ -14,8 +14,8 @@
 ## 🌹 Information
 - github : https://github.com/erase-jeong
 - blog1[study & cs] : https://erase-jeong.tistory.com/
-- blog2 [study + daily] : [blog2](https://blog.naver.com/voy2000)
-..
+- blog2 [study + daily] : https://blog.naver.com/voy2000
+
 
 
 ### Hi there
