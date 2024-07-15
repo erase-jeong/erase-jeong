@@ -3,7 +3,7 @@
 
 
 ## 🌹 Education & Projects
-- dongA univ
+- Dong-A University FairDay 시각장애인 보행 보조 시스템 [FINISH | 🏆 우수상] (2023.10.24~2023.12.07)
 
 
 
