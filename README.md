@@ -40,18 +40,21 @@
 - Dong-A GDSC(Google Developer Student Clubs) ( 2023.09 - ~ ing)
 - Dong-A univ DevWorks 개발팀 (2024.04 ~ ing)
 
-
+<!--
+<br>
 <br>
 
 ## 📝 Education 📝
+-->
 
-
+<br>
+<br>
 
 ## 📁 Projects 📁
 -  [청년커뮤니티 Be:beam 커뮤니티 웹사이트 제작](https://github.com/dnjfht/the-isang-site)
 
 
-
+<br><br>
 
 ## 🌹 Information
 - github : https://github.com/erase-jeong
@@ -61,10 +64,10 @@
 
 
 
-
+<!--
 ### Hi there
 - 🌱 I’m currently learning ....
-<!--
+
 **erase-jeong/erase-jeong** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 - 
 Here are some ideas to get you started:
